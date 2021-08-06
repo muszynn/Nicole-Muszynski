@@ -6,9 +6,13 @@ Welcome and hello! My name is Nicole. I am a first gen college, third-year biome
 ## **[Contact](/Nicole-Muszynski/Contact)**
 
 **Email** | nicole.d.muszynski@vanderbilt.edu
-<a class="icon-linkedin social-button color" href="http://linkedin.com/nicole-muszynski-45082965"></a> 
-<a class="icon-instagram social-button color" href="http://instagram.com/perpetually_coco"></a> 
 
+[<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/googlescholar.svg" />](
+<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/researchgate.svg" />
+<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/googlescholar.svg" />
+[<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/nicole-muszynski-45082965/)
+<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />
+<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />
 
 
 

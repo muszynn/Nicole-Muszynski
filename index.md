@@ -8,7 +8,13 @@ The other half of my time has been spent working with [John Wikswo’s](https://
 
 A couple of cool things I've designed in grad school can be found here:
 
-### Designing and Programming a Syringe Pump with NEMA 17 Stepper Motor  <iframe src="https://vanderbilt428.autodesk360.com/shares/public/SH56a43QTfd62c1cd968fc7ec97f3bc74a30?mode=embed" width="400" height="200" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0""></iframe>
+### [Designing and Programming a Syringe Pump with NEMA 17 Stepper Motor](https://muszynn.github.io/Syringe-Pump-Demo/)  
+<iframe src="https://vanderbilt428.autodesk360.com/shares/public/SH56a43QTfd62c1cd968fc7ec97f3bc74a30?mode=embed" width="440" height="280" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe> 
+
+### [A Custom Bioplotter for Intestinal Crypt Organoid Models](https://daltonjay.github.io/Bioplotting-Crypts/)
+<p align="center">
+  <img src="https://muszynn.github.io/Nicole-Muszynski/Crypt-Plotter.jpg" width="250">
+</p>
 
 
 

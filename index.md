@@ -6,6 +6,9 @@ Welcome and hello! My name is Nicole. I am a first gen college, third-year biome
 
 ### **[Contact](/Nicole-Muszynski/Contact)**
 
+**Email** nicole.d.muszynski@vanderbilt.edu
+
+
 ### **[Curriculum Vitae](/Nicole-Muszynski/CV)**
 
 # **Curriculum Vitae**                                  

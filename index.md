@@ -1,3 +1,11 @@
+<p align="center">
+  [<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=8toIV4sAAAAJ&hl=en)
+  [<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/researchgate.svg" />](https://www.researchgate.net/profile/Nicole-Muszynski-2)
+  [<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/nicole-muszynski-45082965/)
+  [<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/perpetually_coco/)
+  [<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />](https://github.com/muszynn)
+ </p>
+
 Welcome and hello! My name is Nicole. I am a third-year biomedical engineering student at Vanderbilt, but I have actually been working as a biomedical engineer here for the last ten years. I am also a first gen college student. My interdisciplinary research career has had a large focus on the gastrointestinal system. My effort is currently split between two incredible labs that have each brought me tremendous knowledge and incredible opportunities across completely diverse fields. 
 
 <p align="center">
@@ -9,7 +17,7 @@ I have worked for [Alan Bradshaw](https://scholar.google.com/citations?user=tbee
 #
 The other half of my time has been spent working with [John Wikswo’s](https://scholar.google.com/citations?user=JnedIZ0AAAAJ&hl=en&oi=ao) program, the [Vanderbilt Institute for Integrative Biosystems Research and Education (VIIBRE)](https://www.vanderbilt.edu/viibre/), for the last eight years. With Wikswo, I have had the immense pleasure of working on a chemical and biological warfare defense grant for the last 7-8 years. The Defense Advanced Research Projects Agency (DARPA) is one of the two top defense research agencies for the military. They pose tough problems with strict timelines and intense competition to achieve the best possible results. This project, [Rapid Threat Assessment](https://www.darpa.mil/program/rapid-threat-assessment), introduced me to the world of microfluidics, network analysis, and gut-on-a-chip while showing me the power of big data analyses and demonstrating the collective power of a tight-knit working group. Our patent for the high-throughput, multi-omic platform we developed to elucidate de novo mechanism of action of drugs and toxins in 30 days can be found [here](https://patentimages.storage.googleapis.com/ad/64/a4/2d28627674621c/US10607721.pdf). 
 
-##A couple of cool things I've designed in grad school:
+## A couple of cool things I've designed in grad school:
 ### [Designing and Programming a Syringe Pump + NEMA 17 Stepper Motor](https://muszynn.github.io/Syringe-Pump-Demo/)  
 <p align="center">
 <iframe src="https://vanderbilt428.autodesk360.com/shares/public/SH56a43QTfd62c1cd968fc7ec97f3bc74a30?mode=embed" width="440" height="280" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe> 
@@ -17,24 +25,18 @@ The other half of my time has been spent working with [John Wikswo’s](https://
 
 ### [A Custom Bioplotter for Fabricating Intestinal Crypt Organoid Models](https://daltonjay.github.io/Bioplotting-Crypts/)
 <p align="center">
-  <img src="https://muszynn.github.io/Nicole-Muszynski/Crypt-Plotter.jpg" width="250">
+  <img src="https://muszynn.github.io/Nicole-Muszynski/Crypt-Plotter.png" width="250">
 </p>
 
 
 
-## **[Contact](/Nicole-Muszynski/Contact)**
+## **Contact**
 
 **Email**  nicole.d.muszynski@vanderbilt.edu
 
-[<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=8toIV4sAAAAJ&hl=en)
-[<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/researchgate.svg" />](https://www.researchgate.net/profile/Nicole-Muszynski-2)
-[<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/nicole-muszynski-45082965/)
-[<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/perpetually_coco/)
-[<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />](https://github.com/muszynn)
 
 
-
-## **[Curriculum Vitae](/Nicole-Muszynski/CV)**
+## **Curriculum Vitae**
 
 [<span style="color:navy">[Download CV]</span>](https://muszynn.github.io/Nicole-Muszynski/Nicole_Muszynski_CV.pdf)
                               

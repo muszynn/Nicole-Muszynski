@@ -1,4 +1,4 @@
-# NICOLE D. MUSZYNSKI                                   
+# **Curriculum Vitae**                                  
 
 _Multidisciplinary engineer. Experience working with Defense Advanced Research Projects Agency (DARPA), Department of Defense. Clinical research experience, measuring electromagnetic fields of the gastrointestinal system for disease characterization. Strong background in writing and verbalizing science effectively.  Demonstrated technical skills and project leadership across several science and engineering fields._ 
 

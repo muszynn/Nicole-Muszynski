@@ -222,12 +222,12 @@ Surgery and Engineering Symposium, Vanderbilt University, Nashville, TN, Decembe
 Student Scholar Symposium - Lipscomb University - Nashville, TN - 2012 - **Invited Talk**
 
 ## **SKILLS & INTERESTS**
-- - **Skills** |	Cryogenics - Public speaking - Biomagnetometry - Project management - Signal Processing - Microscopy - Microfluidics - Thermoforming - Superconduction - Fourier Transforms - Logistics 
-- - **CAD Software**	| Fusion 360 - AutoCAD - Solidworks
-- - **Programming** |	MATLAB - NI LabView - Canvas - Python - CorelDraw
-- - **Leadership** |	DARPA RTA Engineering Team Lead - Lipscomb University American Chemical Society: VP - Lipscomb University Society of Physics and Engineering: VP		            
-- - **Volunteering** |	Tennessee Environmental Council - Health Talents International, Guatemala Medical Missions, Co-established Clean Water Initiative, now servicing dozens of Guatemalan cities - Habitat for Humanity	- International Justice Mission	- Baptist Emergency Room Intern - Elite Sports Medicine and Orthopedics Intern - Nashville Youth Soccer Coach						                                    		                              
-- - **Interests**  |	Rock climbing, Backpacking, Kickboxing, Running, Nashville Women’s Soccer (NAWSA)
+- **Skills** |	Cryogenics - Public speaking - Biomagnetometry - Project management - Signal Processing - Microscopy - Microfluidics - Thermoforming - Superconduction - Fourier Transforms - Logistics 
+- **CAD Software**	| Fusion 360 - AutoCAD - Solidworks
+- **Programming** |	MATLAB - NI LabView - Canvas - Python - CorelDraw
+- **Leadership** |	DARPA RTA Engineering Team Lead - Lipscomb University American Chemical Society: VP - Lipscomb University Society of Physics and Engineering: VP		            
+- **Volunteering** |	Tennessee Environmental Council - Health Talents International, Guatemala Medical Missions, Co-established Clean Water Initiative, now servicing dozens of Guatemalan cities - Habitat for Humanity	- International Justice Mission	- Baptist Emergency Room Intern - Elite Sports Medicine and Orthopedics Intern - Nashville Youth Soccer Coach						                                    		                              
+- **Interests**  |	Rock climbing, Backpacking, Kickboxing, Running, Nashville Women’s Soccer (NAWSA)
 
 
 

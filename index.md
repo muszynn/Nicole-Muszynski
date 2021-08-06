@@ -16,24 +16,21 @@ _Multidisciplinary engineer. Experience working with Defense Advanced Research P
 
 ## **EDUCATION**
 
-### **PhD**	    Vanderbilt University |   Biomedical Engineering (3.7)  |	  Aug 2019 – May 2023
+### **PhD** -	 Vanderbilt University |   Biomedical Engineering (3.7)  |	  Aug 2019 – May 2023
 
    _Committee: John P. Wikswo (chair), L. Alan Bradshaw, Cynthia Reinhart-King, Richard Caprioli, Fredrick Haselton, Sari Acra MD_
 
-### **BS**	   Lipscomb University    |   Molecular Biology (3.2)       |    Aug 2008 – May 2012
+### **BS** -  Lipscomb University    |   Molecular Biology (3.2)       |    Aug 2008 – May 2012
 
    _Minors: Psychology and Chemistry_
 
 ## **HONORS AND AWARDS**
 1. **Young Investigator Award, American Gastroenterological Association** - **2016**
       _“High-density electrogastrogram identifies spatial dysrhythmias in adolescent patients with chronic idiopathic nausea: a preliminary study”_
-
 2. **Benjamin Franklin Fellowship (declined)** - **2016**
     US Department of State, Washington DC
-
 3. **Robert Stern Award, International Gastrointestinal Electrophysiology Society** - **2015**
     _“Experimental Recording and Analysis of Mucosal and Serosal Slow Wave Activity in Porcine Colon”_     
-
 4. **98th Percentile, American Chemical Society** - **2010**
    National Organic Chemistry Exam
 

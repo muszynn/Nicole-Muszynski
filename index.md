@@ -35,6 +35,8 @@ The other half of my time has been spent working with [John Wikswo’s](https://
 
 
 ## **[Curriculum Vitae](/Nicole-Muszynski/CV)**
+
+[<span style="color:navy">[Download CV]</span>](https://muszynn.github.io/Nicole-Muszynski/Nicole_Muszynski_CV.pdf)
                               
 
 _Multidisciplinary engineer. Experience working with Defense Advanced Research Projects Agency (DARPA), Department of Defense. Clinical research experience, measuring electromagnetic fields of the gastrointestinal system for disease characterization. Strong background in writing and verbalizing science effectively.  Demonstrated technical skills and project leadership across several science and engineering fields._ 

@@ -16,11 +16,13 @@ _Multidisciplinary engineer. Experience working with Defense Advanced Research P
 
 ## **EDUCATION**
 
-### **PhD** -	 Vanderbilt University |   Biomedical Engineering (3.7)  |	  Aug 2019 – May 2023
+### **PhD** -	 Vanderbilt University | Biomedical Engineering | GPA 3.7 	  
+   August 2019 – May 2024
 
    _Committee: John P. Wikswo (chair), L. Alan Bradshaw, Cynthia Reinhart-King, Richard Caprioli, Fredrick Haselton, Sari Acra MD_
 
-### **BS** -  Lipscomb University    |   Molecular Biology (3.2)       |    Aug 2008 – May 2012
+### **BS** -  Lipscomb University |   Molecular Biology  | GPA 3.2   
+  August 2008 – May 2012
 
    _Minors: Psychology and Chemistry_
 

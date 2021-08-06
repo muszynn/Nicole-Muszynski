@@ -29,6 +29,7 @@ _Multidisciplinary engineer. Experience working with Defense Advanced Research P
 ### **Project 1: Gastrointestinal SQUID Technologies Laboratory**	          May 2011 - Present
 
 Biomedical Engineer, Research Scientist, Clinical Research Coordinator
+
 Advisor: L. Alan Bradshaw, Vanderbilt University Medical Center
 
 - Clinical Research in neonates, children, and adults
@@ -39,10 +40,10 @@ Advisor: L. Alan Bradshaw, Vanderbilt University Medical Center
 - Wrote MATLAB code to analyze gastric dysrhythmias in LabView
 - Negotiated institutional-wide helium contact
 
-### **Project 2: DARPA Rapid Threat Assessment for Chemical and Biological Warfare Defense**          	
-June 2014 – April 2021
+### **Project 2: DARPA Rapid Threat Assessment for Chemical and Biological Warfare Defense**    June 2014 – April 2021
 
 Engineering Team Lead, Biomedical Engineer, Research Scientist
+
 Advisor: John P. Wikswo, Richard Caprioli, Vanderbilt University
 
 - Developed a system for rapidly heating and/or cooling cells+toxin to achieve metabolic cessation
@@ -54,6 +55,7 @@ Advisor: John P. Wikswo, Richard Caprioli, Vanderbilt University
 ### **Project 3: Organ-on-a-Chip**	    Dec 2018 – Present
 
 Biomedical Engineer, Research Scientist
+
 Advisor: John P. Wikswo, Vanderbilt University
 
 - Currently developing openable gut-on-a-chip for multi-omic analyses of host-pathogen interactions

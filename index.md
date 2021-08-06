@@ -40,9 +40,7 @@ _Multidisciplinary engineer. Experience working with Defense Advanced Research P
 ## **RESEARCH EXPERIENCE**
 ### **Project 1: Gastrointestinal SQUID Technologies Laboratory**	          May 2011 - Present
 
-Biomedical Engineer, Research Scientist, Clinical Research Coordinator
-
-Advisor: L. Alan Bradshaw, Vanderbilt University Medical Center
+*Biomedical Engineer, Research Scientist, Clinical Research Coordinator* | Advisor: L. Alan Bradshaw, Vanderbilt University Medical Center
 
 - Clinical Research in neonates, children, and adults
 - Participated in the design and execution of bio-electro-magnetic methods as a noninvasive clinical screening tool for improving the care of patients suffering from gastrointestinal (GI) disorders
@@ -54,9 +52,7 @@ Advisor: L. Alan Bradshaw, Vanderbilt University Medical Center
 
 ### **Project 2: DARPA Rapid Threat Assessment for Chemical and Biological Warfare Defense**    June 2014 – April 2021
 
-Engineering Team Lead, Biomedical Engineer, Research Scientist
-
-Advisor: John P. Wikswo, Richard Caprioli, Vanderbilt University
+*Engineering Team Lead, Biomedical Engineer, Research Scientist* | Advisors: John P. Wikswo, Richard Caprioli, Vanderbilt University
 
 - Developed a system for rapidly heating and/or cooling cells+toxin to achieve metabolic cessation
 - Fabricated a microfluidic system for rapidly mixing and exposing cells to toxin in the seconds to milliseconds range
@@ -66,18 +62,14 @@ Advisor: John P. Wikswo, Richard Caprioli, Vanderbilt University
 
 ### **Project 3: Organ-on-a-Chip**	    Dec 2018 – Present
 
-Biomedical Engineer, Research Scientist
-
-Advisor: John P. Wikswo, Vanderbilt University
+*Biomedical Engineer, Research Scientist* | Advisor: John P. Wikswo, Vanderbilt University
 
 - Currently developing openable gut-on-a-chip for multi-omic analyses of host-pathogen interactions
 - Utilizing human-derived intestinal stem cells from tissue explants
 - Developed standard operating procedures for microfluidic platform
 
 ## **TEACHING EXPERIENCE**
-**Scientist in the Classroom Partnership**	July 2021 - May 2022
-
-Collaboration with NIH and Metro Nashville Public Schools K-12
+**Scientist in the Classroom Partnership**	| July 2021 - May 2022  | *Collaboration with NIH and Metro Nashville Public Schools K-12*
 
 ## **PATENTS**
 1.	Caprioli, Richard, John Wikswo, John McLean, Eric Skaar, Jeremy L. Norris, Dana Borden Lacy, Stacy Sherrod, James Pino, Danielle Gutierrez, Nicole D. Muszynski, Melissa Farrow. 2020. “High-throughput, multi-omics approach to determine and validate de novo global mechanisms of action for drugs and toxins.” United States US10607721B2, filed September 22, 2016, and issued March 31, 2020. https://patents.google.com/patent/US10607721B2/en.
@@ -230,11 +222,12 @@ Surgery and Engineering Symposium, Vanderbilt University, Nashville, TN, Decembe
 Student Scholar Symposium - Lipscomb University - Nashville, TN - 2012 - **Invited Talk**
 
 ## **SKILLS & INTERESTS**
-**Skills:** 	Cryogenics, Public speaking, Data analysis, Biomagnetometry, Project management, Signal Processing, Microscopy, Microfluidic devices, Thermoforming, Superconduction, Fourier Transforms, Logistics 
-**CAD Software:**	Fusion 360, AutoCAD, Solidworks	
-**Programming:** 	MATLAB, NI LabView, Canvas, Python, CorelDraw
-**Leadership:**	DARPA RTA Engineering Team Lead, Lipscomb University American Chemical Society: VP, Lipscomb University Society of Physics and Engineering: VP		               **Volunteering:**	Tennessee Environmental Council - Health Talents International, Guatemala Medical Missions, Co-established Clean Water Initiative, now servicing dozens of Guatemalan cities - Habitat for Humanity	- International Justice Mission	- Baptist Emergency Room Intern - Elite Sports Medicine and Orthopedics Intern - Nashville Youth Soccer Coach						                                    		                              
-**Interests:** 	Rock climbing, Backpacking, Kickboxing, Running, Nashville Women’s Soccer (NAWSA)
+- **Skills:** 	Cryogenics - Public speaking - Biomagnetometry - Project management - Signal Processing - Microscopy - Microfluidics - Thermoforming - Superconduction - Fourier Transforms - Logistics 
+- **CAD Software:**	Fusion 360 - AutoCAD - Solidworks
+- **Programming:** 	MATLAB - NI LabView - Canvas - Python - CorelDraw
+- **Leadership:**	DARPA RTA Engineering Team Lead - Lipscomb University American Chemical Society: VP - Lipscomb University Society of Physics and Engineering: VP		            
+- **Volunteering:**	Tennessee Environmental Council - Health Talents International, Guatemala Medical Missions, Co-established Clean Water Initiative, now servicing dozens of Guatemalan cities - Habitat for Humanity	- International Justice Mission	- Baptist Emergency Room Intern - Elite Sports Medicine and Orthopedics Intern - Nashville Youth Soccer Coach						                                    		                              
+- **Interests:** 	Rock climbing, Backpacking, Kickboxing, Running, Nashville Women’s Soccer (NAWSA)
 
 
 

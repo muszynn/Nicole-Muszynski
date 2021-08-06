@@ -25,16 +25,16 @@ _Multidisciplinary engineer. Experience working with Defense Advanced Research P
    _Minors: Psychology and Chemistry_
 
 ## **HONORS AND AWARDS**
-1. **Young Investigator Award, American Gastroenterological Association** **2016**
-    _“High-density electrogastrogram identifies spatial dysrhythmias in adolescent patients with chronic idiopathic nausea: a preliminary study”_
+1. **Young Investigator Award, American Gastroenterological Association** - **2016**
+      _“High-density electrogastrogram identifies spatial dysrhythmias in adolescent patients with chronic idiopathic nausea: a preliminary study”_
 
-2. **Benjamin Franklin Fellowship (declined)** **2016**
+2. **Benjamin Franklin Fellowship (declined)** - **2016**
     US Department of State, Washington DC
 
-3. **Robert Stern Award, International Gastrointestinal Electrophysiology Society** **2015**
+3. **Robert Stern Award, International Gastrointestinal Electrophysiology Society** - **2015**
     _“Experimental Recording and Analysis of Mucosal and Serosal Slow Wave Activity in Porcine Colon”_     
 
-4. **98th Percentile, American Chemical Society** **2010**
+4. **98th Percentile, American Chemical Society** - **2010**
    National Organic Chemistry Exam
 
 ## **RESEARCH EXPERIENCE**
@@ -76,6 +76,7 @@ Advisor: John P. Wikswo, Vanderbilt University
 
 ## **TEACHING EXPERIENCE**
 **Scientist in the Classroom Partnership**	July 2021 - May 2022
+
 Collaboration with NIH and Metro Nashville Public Schools K-12
 
 ## **PATENTS**

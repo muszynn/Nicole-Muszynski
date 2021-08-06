@@ -1,6 +1,4 @@
-![Nicole-Muszynski](/Nicole-Muszynski/nm_pic_website.jpg)
-# Nicole Muszynski
-Biomedical Engineering Ph.D. Student at Vanderbilt University, Nashville, Tennessee
+
 
 **About Me**
 

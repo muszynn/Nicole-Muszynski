@@ -4,19 +4,6 @@ Welcome and hello! My name is Nicole. I am a third-year biomedical engineering s
   <img src="https://muszynn.github.io/Nicole-Muszynski/nm.jpg" width="200">
 </p>
 
-.circular {
-	width: 300px;
-	height: 300px;
-	border-radius: 150px;
-	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;
-	background: url(https://muszynn.github.io/Nicole-Muszynski/nm.jpg) no-repeat;
-	}
-
-.circular img {
-	opacity: 0;
-	filter: alpha(opacity=0);
-	}
 
 I have worked for [Alan Bradshaw](https://scholar.google.com/citations?user=tbee4G4AAAAJ&hl=en&oi=sra) in the [Gastrointestinal SQUID Lab](https://www.vumc.org/biomag/welcome) for ten years. The SQUID Lab's focus is to develop noninvasive methods of diagnosing gastrointestinal diseases that would otherwise be hard to detect. Our overall goal is to add characterizing criteria to GI disorders by investigating gastric motility using electrical and magnetic field analyses. Each part of your gastric system functions at different frequencies - stomach 3 cycles per minute (cpm), intestine 10-12 cpm, colon 1-3 cpm. Our cutaneous 5x5 high density electrogastrogram (HR-EGG) array measures your electrical fields. Think heart EKG but for your stomach. The magnetogastrogram (MGG) measures the very weak GI magnetic fields using a highly-sensitive superconducting quantum interference device (SQUID) magnetometer. Think tricorder from Star Trek, but it’s a tube fixed in the ceiling. We are currently running six clinical studies: EGG + MGG in pediatric chronic nausea in patients between seven and seventeen years old, EGG on neonates at risk of ischemia from congenital heart disease, measurement of fetal heart using MGG, two esophageal studies on achalasia with one involving E-POEM surgical intervention, and a G-POEM study on gastroparesis. 
 #

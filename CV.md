@@ -4,80 +4,61 @@ _Multidisciplinary engineer. Experience working with Defense Advanced Research P
 
 ## **EDUCATION**
 
-**PhD**	 |   Vanderbilt University |   Biomedical Engineering (3.7)  |	  Aug 2019 – May 2023
+### **PhD**	 |   Vanderbilt University |   Biomedical Engineering (3.7)  |	  Aug 2019 – May 2023
 
-Committee: John P. Wikswo (chair), L. Alan Bradshaw, Cynthia Reinhart-King, Richard Caprioli, Fredrick Haselton, Sari Acra MD
+   _Committee: John P. Wikswo (chair), L. Alan Bradshaw, Cynthia Reinhart-King, Richard Caprioli, Fredrick Haselton, Sari Acra MD_
 
-**BS**	 |  Lipscomb University    |   Molecular Biology (3.2)       |    Aug 2008 – May 2012
+### **BS**	 |  Lipscomb University    |   Molecular Biology (3.2)       |    Aug 2008 – May 2012
 
-Minors: Psychology and Chemistry
+   _Minors: Psychology and Chemistry_
 
 ## **HONORS AND AWARDS**
 1. **Young Investigator Award, American Gastroenterological Association** **2016**
-
-_“High-density electrogastrogram identifies spatial dysrhythmias in adolescent patients with chronic idiopathic nausea: a preliminary study”_
+    _“High-density electrogastrogram identifies spatial dysrhythmias in adolescent patients with chronic idiopathic nausea: a preliminary study”_
 
 2. **Benjamin Franklin Fellowship (declined)** **2016**
-
-US Department of State, Washington DC
+    US Department of State, Washington DC
 
 3. **Robert Stern Award, International Gastrointestinal Electrophysiology Society** **2015**
-
-_“Experimental Recording and Analysis of Mucosal and Serosal Slow Wave Activity in Porcine Colon”_     
+    _“Experimental Recording and Analysis of Mucosal and Serosal Slow Wave Activity in Porcine Colon”_     
 
 4. **98th Percentile, American Chemical Society** **2010**
-
-National Organic Chemistry Exam
+   National Organic Chemistry Exam
 
 ## **RESEARCH EXPERIENCE**
-**Project 1: Gastrointestinal SQUID Technologies Laboratory**	          May 2011 - Present
+### **Project 1: Gastrointestinal SQUID Technologies Laboratory**	          May 2011 - Present
 
 Biomedical Engineer, Research Scientist, Clinical Research Coordinator
-
 Advisor: L. Alan Bradshaw, Vanderbilt University Medical Center
 
-•	Clinical Research in neonates, children, and adults
+- Clinical Research in neonates, children, and adults
+- Participated in the design and execution of bio-electro-magnetic methods as a noninvasive clinical screening tool for improving the care of patients suffering from gastrointestinal (GI) disorders
+- Installed, tested, and calibrated various biomedical equipment, including a superconducting quantum interference device (SQUID) and helium cryocooler
+- Developed digital signal processing methods to detect and classify GI electrical propagation patterns for diagnosing gastric dysrhythmias
+- Utilized mathematical modeling of gastrointestinal electrophysiology to validate gastric dysrhythmias 
+- Wrote MATLAB code to analyze gastric dysrhythmias in LabView
+- Negotiated institutional-wide helium contact
 
-•	Participated in the design and execution of bio-electro-magnetic methods as a noninvasive clinical screening tool for improving the care of patients suffering from gastrointestinal (GI) disorders
-
-•	 Installed, tested, and calibrated various biomedical equipment, including a superconducting quantum interference device (SQUID) and helium cryocooler
-
-•	Developed digital signal processing methods to detect and classify GI electrical propagation patterns for diagnosing gastric dysrhythmias
-
-•	Utilized mathematical modeling of gastrointestinal electrophysiology to validate gastric dysrhythmias 
-
-•	Wrote MATLAB code to analyze gastric dysrhythmias in LabView
-
-•	Negotiated institutional-wide helium contact
-
-## **Project 2: DARPA Rapid Threat Assessment for Chemical and Biological Warfare Defense**          	
+### **Project 2: DARPA Rapid Threat Assessment for Chemical and Biological Warfare Defense**          	
 June 2014 – April 2021
 
 Engineering Team Lead, Biomedical Engineer, Research Scientist
-
 Advisor: John P. Wikswo, Richard Caprioli, Vanderbilt University
 
-•	Developed a system for rapidly heating and/or cooling cells+toxin to achieve metabolic cessation
+- Developed a system for rapidly heating and/or cooling cells+toxin to achieve metabolic cessation
+- Fabricated a microfluidic system for rapidly mixing and exposing cells to toxin in the seconds to milliseconds range
+- Validated microfluidic system using mathematical and computational modeling
+- Built analytics reports using data extracted from fabricated systems to report to DARPA monthly
+- Strategized timeline of goals and tactics to reach DARPA’s annual milestones
 
-•	Fabricated a microfluidic system for rapidly mixing and exposing cells to toxin in the seconds to milliseconds range
-
-•	Validated microfluidic system using mathematical and computational modeling
-
-•	Built analytics reports using data extracted from fabricated systems to report to DARPA monthly
-
-•	Strategized timeline of goals and tactics to reach DARPA’s annual milestones
-
-## **Project 3: Organ-on-a-Chip**	    Dec 2018 – Present
+### **Project 3: Organ-on-a-Chip**	    Dec 2018 – Present
 
 Biomedical Engineer, Research Scientist
-
 Advisor: John P. Wikswo, Vanderbilt University
 
-•	Currently developing openable gut-on-a-chip for multi-omic analyses of host-pathogen interactions
-
-•	Utilizing human-derived intestinal stem cells from tissue explants
-
-•	Developed standard operating procedures for microfluidic platform
+- Currently developing openable gut-on-a-chip for multi-omic analyses of host-pathogen interactions
+- Utilizing human-derived intestinal stem cells from tissue explants
+- Developed standard operating procedures for microfluidic platform
 
 ## **TEACHING EXPERIENCE**
 **Scientist in the Classroom Partnership**	July 2021 - May 2022

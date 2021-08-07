@@ -1,12 +1,12 @@
 
 
-  [<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=8toIV4sAAAAJ&hl=en) 
-  [<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/researchgate.svg" />](https://www.researchgate.net/profile/Nicole-Muszynski-2) 
-  [<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/nicole-muszynski-45082965/) 
-  [<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/perpetually_coco/) 
-  [<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />](https://github.com/muszynn) 
+  [<img align="right" img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=8toIV4sAAAAJ&hl=en) 
+  [<img align="right" img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/researchgate.svg" />](https://www.researchgate.net/profile/Nicole-Muszynski-2) 
+  [<img align="right" img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/nicole-muszynski-45082965/) 
+  [<img align="right" img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/perpetually_coco/) 
+  [<img align="right" img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />](https://github.com/muszynn) 
 
-
+**Email:** nicole.d.muszynski@vanderbilt.edu
 ---
 
 Welcome and hello! My name is Nicole. I am a third-year biomedical engineering student at Vanderbilt, but I have actually been working as a biomedical engineer here for the last ten years. I am also a first gen college student. My interdisciplinary research career has had a large focus on the gastrointestinal system. My effort is currently split between two incredible labs that have each brought me tremendous knowledge and incredible opportunities across completely diverse fields. 
@@ -32,7 +32,7 @@ The other half of my time has been spent working with [John Wikswo’s](https://
 </p>
 
 
-## **Curriculum Vitae**
+### **Curriculum Vitae**
 
 [<span style="color:navy">[Download CV]</span>](https://muszynn.github.io/Nicole-Muszynski/Nicole_Muszynski_CV.pdf)
                               

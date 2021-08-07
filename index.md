@@ -5,9 +5,8 @@
   [<img align="right" img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/nicole-muszynski-45082965/) 
   [<img align="right" img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/perpetually_coco/) 
   [<img align="right" img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />](https://github.com/muszynn) 
-<span style="color:red">nicole.d.muszynski@vanderbilt.edu</span>
+nicole.d.muszynski@vanderbilt.edu
 
----
 
 Welcome and hello! My name is Nicole. I am a third-year biomedical engineering student at Vanderbilt, but I have actually been working as a biomedical engineer here for the last ten years. I am also a first gen college student. My interdisciplinary research career has had a large focus on the gastrointestinal system. My effort is currently split between two incredible labs that have each brought me tremendous knowledge and incredible opportunities across completely diverse fields. 
 
@@ -64,7 +63,7 @@ _Multidisciplinary engineer. Experience working with Defense Advanced Research P
 ## **RESEARCH EXPERIENCE**
 ### **Project 1: Gastrointestinal SQUID Technologies Laboratory**	          May 2011 - Present
 
-*Biomedical Engineer, Research Scientist, Clinical Research Coordinator* | Advisor: L. Alan Bradshaw, Vanderbilt University Medical Center
+*Biomedical Engineer, Research Scientist, Clinical Research Coordinator* \| Advisor: L. Alan Bradshaw, Vanderbilt University Medical Center
 
 - Clinical Research in neonates, children, and adults
 - Participated in the design and execution of bio-electro-magnetic methods as a noninvasive clinical screening tool for improving the care of patients suffering from gastrointestinal (GI) disorders
@@ -76,7 +75,7 @@ _Multidisciplinary engineer. Experience working with Defense Advanced Research P
 
 ### **Project 2: DARPA Rapid Threat Assessment for Chemical and Biological Warfare Defense**    June 2014 – April 2021
 
-*Engineering Team Lead, Biomedical Engineer, Research Scientist* | Advisors: John P. Wikswo, Richard Caprioli, Vanderbilt University
+*Engineering Team Lead, Biomedical Engineer, Research Scientist* \| Advisors: John P. Wikswo, Richard Caprioli, Vanderbilt University
 
 - Developed a system for rapidly heating and/or cooling cells+toxin to achieve metabolic cessation
 - Fabricated a microfluidic system for rapidly mixing and exposing cells to toxin in the seconds to milliseconds range
@@ -86,14 +85,14 @@ _Multidisciplinary engineer. Experience working with Defense Advanced Research P
 
 ### **Project 3: Organ-on-a-Chip**	    Dec 2018 – Present
 
-*Biomedical Engineer, Research Scientist* | Advisor: John P. Wikswo, Vanderbilt University
+*Biomedical Engineer, Research Scientist* \| Advisor: John P. Wikswo, Vanderbilt University
 
 - Currently developing openable gut-on-a-chip for multi-omic analyses of host-pathogen interactions
 - Utilizing human-derived intestinal stem cells from tissue explants
 - Developed standard operating procedures for microfluidic platform
 
 ## **TEACHING EXPERIENCE**
-**Scientist in the Classroom Partnership**	| July 2021 - May 2022  | *Collaboration with NIH and Metro Nashville Public Schools K-12*
+**Scientist in the Classroom Partnership**	\| July 2021 - May 2022  \| *Collaboration with NIH and Metro Nashville Public Schools K-12*
 
 ## **PATENTS**
 1.	Caprioli, Richard, John Wikswo, John McLean, Eric Skaar, Jeremy L. Norris, Dana Borden Lacy, Stacy Sherrod, James Pino, Danielle Gutierrez, Nicole D. Muszynski, Melissa Farrow. 2020. “High-throughput, multi-omics approach to determine and validate de novo global mechanisms of action for drugs and toxins.” United States US10607721B2, filed September 22, 2016, and issued March 31, 2020. https://patents.google.com/patent/US10607721B2/en.

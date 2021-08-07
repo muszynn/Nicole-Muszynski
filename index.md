@@ -5,7 +5,7 @@
   [<img align="right" img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/nicole-muszynski-45082965/) 
   [<img align="right" img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/perpetually_coco/) 
   [<img align="right" img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />](https://github.com/muszynn) 
-## nicole.d.muszynski@vanderbilt.edu
+<span style="color:red">nicole.d.muszynski@vanderbilt.edu</span>
 
 ---
 

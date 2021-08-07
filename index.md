@@ -9,9 +9,7 @@
   
   [<img align="right" img height="34" width="34" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />](https://github.com/muszynn) 
   
-  
-  
-  ---
+ 
 
 
 Welcome and hello! My name is Nicole. I am a third-year biomedical engineering student at Vanderbilt, but I have actually been working as a biomedical engineer here for the last ten years. I am also a first gen college student. My interdisciplinary research career has had a large focus on the gastrointestinal system. My effort is currently split between two incredible labs that have each brought me tremendous knowledge and incredible opportunities across completely diverse fields. 

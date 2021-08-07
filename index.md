@@ -1,4 +1,4 @@
-**Email**  nicole.d.muszynski@vanderbilt.edu
+
 
   [<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=8toIV4sAAAAJ&hl=en) 
   [<img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/researchgate.svg" />](https://www.researchgate.net/profile/Nicole-Muszynski-2) 

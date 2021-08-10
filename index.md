@@ -94,153 +94,153 @@ _Multidisciplinary engineer. Experience working with Defense Advanced Research P
 **Scientist in the Classroom Partnership**	\| July 2021 - May 2022  \| *Collaboration with NIH and Metro Nashville Public Schools K-12*
 
 ## **PATENTS**
-1.	Caprioli, Richard, John Wikswo, John McLean, Eric Skaar, Jeremy L. Norris, Dana Borden Lacy, Stacy Sherrod, James Pino, Danielle Gutierrez, Nicole D. Muszynski, Melissa Farrow. 2020. “High-throughput, multi-omics approach to determine and validate de novo global mechanisms of action for drugs and toxins.” United States US10607721B2, filed September 22, 2016, and issued March 31, 2020. https://patents.google.com/patent/US10607721B2/en.
+1.	Caprioli, Richard, John Wikswo, John McLean, Eric Skaar, Jeremy L. Norris, Dana Borden Lacy, Stacy Sherrod, James Pino, Danielle Gutierrez, **Nicole D. Muszynski**, Melissa Farrow. _“High-throughput, multi-omics approach to determine and validate de novo global mechanisms of action for drugs and toxins.”_ United States US10607721B2, filed September 22, 2016, and issued March 31, 2020. https://patents.google.com/patent/US10607721B2/en.
 
 ## **PEER-REVIEWED PUBLICATIONS**
-1.	Pino J, Harris A, Lubbock A, Gutierrez D, Farrow M, Muszynski N, et al. “Extracting biological knowledge from multi-omics data sets by combining network and enrichment analyses with multiple signaling databases.” In preparation.
+1.	Pino J, Harris A, Lubbock A, Gutierrez D, Farrow M, **Muszynski N**, et al. _“Extracting biological knowledge from multi-omics data sets by combining network and enrichment analyses with multiple signaling databases.”_ In preparation.
 
-2.	J. D. Olson, S. Somarajan, N. D. Muszynski, A. C. Russell, L. S. Walker, S. A. Acra, and L. A. Bradshaw, “Automated machine learning pipeline approach for classification of pediatric chronic nausea using high resolution electrogastrogram,” IEEE Transactions on Biomedical Engineering. In review, 2021.
+2.	J. D. Olson, S. Somarajan, **N. D. Muszynski**, A. C. Russell, L. S. Walker, S. A. Acra, and L. A. Bradshaw. _“Automated machine learning pipeline approach for classification of pediatric chronic nausea using high resolution electrogastrogram.”_ IEEE Transactions on Biomedical Engineering. In review, 2021.
 
-3.	Pino, James C., Alexander L. R. Lubbock, Leonard A. Harris, Danielle B. Gutierrez, Melissa A. Farrow, Nicole Muszynski, Tina Tsui, et al. 2020. “A Computational Framework to Explore Cellular Response Mechanisms from Multi-Omics Datasets.” BioRxiv, March, 2020.03.02.974121. 
+3.	Pino, James C., Alexander L. R. Lubbock, Leonard A. Harris, Danielle B. Gutierrez, Melissa A. Farrow, **Nicole Muszynski**, Tina Tsui, et al. _“A Computational Framework to Explore Cellular Response Mechanisms from Multi-Omics Datasets.”_ BioRxiv, March, 2020.03.02.974121. 
 
-4.	S. Somarajan, N. D. Muszynski, J. D. Olson, A. Comstock, A. C. Russell, L. S. Walker, S. A. Acra, and L. A. Bradshaw, “The effect of chronic nausea on gastric slow wave spatiotemporal dynamics in children,” Neurogastroenterology and Motility, Nov 20, 2020.
+4.	S. Somarajan, **N. D. Muszynski**, J. D. Olson, A. Comstock, A. C. Russell, L. S. Walker, S. A. Acra, and L. A. Bradshaw. _“The effect of chronic nausea on gastric slow wave spatiotemporal dynamics in children.”_ Neurogastroenterology and Motility, Nov 20, 2020.
 
-5.	S. Somarajan, N. D. Muszynski, J. D. Olson, A. Comstock, A. C. Russell, L. S. Walker, S. A. Acra, and L. A. Bradshaw, “Response to "retrograde slow wave activation: A missing link in gastric dysfunction?",” Neurogastroenterology and Motility, vol. 33, no. 4, Apr, 2021
+5.	S. Somarajan, **N. D. Muszynski**, J. D. Olson, A. Comstock, A. C. Russell, L. S. Walker, S. A. Acra, and L. A. Bradshaw. _“Response to "retrograde slow wave activation: A missing link in gastric dysfunction?",_ Neurogastroenterology and Motility, vol. 33, no. 4, Apr, 2021
 
-6.	S. Somarajan, N. D. Muszynski, D. Hawrami, J. D. Olson, L. K. Cheng, and L. A. Bradshaw, “Noninvasive Magnetogastrography Detects Erythromycin-Induced Effects on the Gastric Slow Wave,” Ieee Transactions on Biomedical Engineering, vol. 66, no. 2, pp. 327-334, Feb, 2019.
+6.	S. Somarajan, **N. D. Muszynski**, D. Hawrami, J. D. Olson, L. K. Cheng, and L. A. Bradshaw. _“Noninvasive Magnetogastrography Detects Erythromycin-Induced Effects on the Gastric Slow Wave.”_ IEEE Transactions on Biomedical Engineering, vol. 66, no. 2, pp. 327-334, Feb, 2019.
 
-7.	S. Somarajan, N. D. Muszynski, J. D. Olson, L. A. Bradshaw, and W. O. Richards, “Magnetoenterography for the Detection of Partial Mesenteric Ischemia,” Journal of Surgical Research, vol. 239, pp. 31-37, Jul, 2019.
+7.	S. Somarajan, **N. D. Muszynski**, J. D. Olson, L. A. Bradshaw, and W. O. Richards. _“Magnetoenterography for the Detection of Partial Mesenteric Ischemia.”_ Journal of Surgical Research, vol. 239, pp. 31-37, Jul, 2019.
 
-8.	Norris, Jeremy L., Melissa A. Farrow, Danielle B. Gutierrez, Lauren D. Palmer, Nicole Muszynski, Stacy D. Sherrod, James C. Pino, et al. 2017. “Integrated, High-Throughput, Multiomics Platform Enables Data-Driven Construction of Cellular Responses and Reveals Global Drug Mechanisms of Action.” Journal of Proteome Research 16 (3): 1364–75. 
+8.	Norris, Jeremy L., Melissa A. Farrow, Danielle B. Gutierrez, Lauren D. Palmer, **Nicole Muszynski**, Stacy D. Sherrod, James C. Pino, et al. _“Integrated, High-Throughput, Multiomics Platform Enables Data-Driven Construction of Cellular Responses and Reveals Global Drug Mechanisms of Action.”_ Journal of Proteome Research, 16 (3): 1364–75. 2017.
 
-9.	Somarajan S, Muszynski ND, Cheng LK, Bradshaw LA, Naslund TC, and Richards WO. “Noninvasive biomagnetic detection of intestinal slow wave dysrhythmias in chronic mesenteric ischemia”. Am J Physiol-Gastr L 309: G52-G58, 2015.
+9.	Somarajan S, **Muszynski ND**, Cheng LK, Bradshaw LA, Naslund TC, and Richards WO. _“Noninvasive biomagnetic detection of intestinal slow wave dysrhythmias in chronic mesenteric ischemia”_. Am J Physiology-Gastrointestinal and Liver, 309: G52-G58, 2015.
 
-10.	Somarajan S, Muszynski ND, Obioha C, Richards WO, and Bradshaw LA. “Biomagnetic and bioelectric detection of gastric slow wave activity in normal human subjects-a correlation study.” Physiol Meas 33: 1171-1179, 2012.
+10.	Somarajan S, **Muszynski ND**, Obioha C, Richards WO, and Bradshaw LA. _“Biomagnetic and bioelectric detection of gastric slow wave activity in normal human subjects-a correlation study.”_ Physiological Measurement, 33: 1171-1179, 2012.
 
 ## **ABSTRACT PUBLICATIONS**
-1.	S. Somarajan, N. D. Muszynski, A. S. Monk, J. D. Olson, A. Russell, S. Acra, L. A. Bradshaw, and H. Weitkamp, “Noninvasive Measurement of Small Bowel Slow Wave Activity in Neonates - a Pilot Study,” Gastroenterology, vol. 158, no. 6, pp. S364-S364, May, 2020.
+1.	S. Somarajan, **N. D. Muszynski**, A. S. Monk, J. D. Olson, A. Russell, S. Acra, L. A. Bradshaw, and H. Weitkamp. _“Noninvasive Measurement of Small Bowel Slow Wave Activity in Neonates - a Pilot Study.”_ Gastroenterology, vol. 158, no. 6, pp. S364-S364, May, 2020.
 
-2.	S. Somarajan, N. D. Muszynski, J. D. Olson, A. C. Russell, S. A. Acra, and L. A. Bradshaw, “Multichannel electrogastrography distinguishes gastric slow wave spatiotemporal parameter differences in pediatric chronic nausea,” Neurogastroenterology and Motility, vol. 31, Aug, 2019.
+2.	S. Somarajan, **N. D. Muszynski**, J. D. Olson, A. C. Russell, S. A. Acra, and L. A. Bradshaw. _“Multichannel electrogastrography distinguishes gastric slow wave spatiotemporal parameter differences in pediatric chronic nausea.”_ Neurogastroenterology and Motility, vol. 31, Aug, 2019.
 
-3.	Somarajan S, Muszynski ND, Russell A, Gorman BL, Acra S, Cheng LK, and Bradshaw LA. High-Density Electrogastrogram Identifies Spatial Dysrhythmias in Adolescent Patients With Chronic Idiopathic Nausea: A Preliminary Study. Gastroenterology 150: S356, 2016.
+3.	Somarajan S, **Muszynski ND**, Russell A, Gorman BL, Acra S, Cheng LK, and Bradshaw LA. _"High-Density Electrogastrogram Identifies Spatial Dysrhythmias in Adolescent Patients With Chronic Idiopathic Nausea: A Preliminary Study._ Gastroenterology 150: S356, 2016.
 
-4.	Muszynski ND, Paskaranandavadivel N, Togrye CT, Somarajan S, Williams P, Bradshaw LA, and Cheng LK. Spatiotemporal and Morphological Differences in Serosal and Mucosal Electrical Recording of Porcine Colonic Slow Wave. Gastroenterology 150: S350-S351, 2016.
+4.	**Muszynski ND**, Paskaranandavadivel N, Togrye CT, Somarajan S, Williams P, Bradshaw LA, and Cheng LK. _"Spatiotemporal and Morphological Differences in Serosal and Mucosal Electrical Recording of Porcine Colonic Slow Wave."_ Gastroenterology 150: S350-S351, 2016.
 
-5.	Somarajan S, Muszynski ND, Richards WO, Cheng LK, and Bradshaw LA. Noninvasive Biomagnetic Assessment of the Effects of Erythromycin on the Gastric Slow Wave. Gastroenterology 148: S511-S511, 2015.
+5.	Somarajan S, **Muszynski ND**, Richards WO, Cheng LK, and Bradshaw LA. _"Noninvasive Biomagnetic Assessment of the Effects of Erythromycin on the Gastric Slow Wave."_ Gastroenterology 148: S511-S511, 2015.
 
-6.	Muszynski ND, Somarajan S, Richards WO, and Bradshaw LA. Noninvasive Measurement of Gastric Slow Wave Dysrhythmia in Porcine. Gastroenterology 146: S616-S616, 2014.
+6.	**Muszynski ND**, Somarajan S, Richards WO, and Bradshaw LA. _"Noninvasive Measurement of Gastric Slow Wave Dysrhythmia in Porcine."_ Gastroenterology 146: S616-S616, 2014.
 
-7.	Muszynski ND, Somarajan S, Richards WO, and Bradshaw LA. Cholecystokinin Alters Serosal EMG but Not MGG in Porcine Subjects. Gastroenterology 146: S616-S616, 2014.
+7.	**Muszynski ND**, Somarajan S, Richards WO, and Bradshaw LA. _"Cholecystokinin Alters Serosal EMG but Not MGG in Porcine Subjects."_ Gastroenterology 146: S616-S616, 2014.
 
 ## **PRESENTATIONS AND INVITED LECTURES**
-1.	“Knowledge Graphs for COVID-19 Long Hauler and Other Post-Infection Syndromes: Contemporary Challenges in Systems Biology and Regulatory Plasticity.” - 
+1.	_“Knowledge Graphs for COVID-19 Long Hauler and Other Post-Infection Syndromes: Contemporary Challenges in Systems Biology and Regulatory Plasticity.”_ - 
 **Guest Lecture**, Institute for Systems Biology, May 18, 2021. John Wikswo and **Nicole Muszynski**.
 
-2.	“COVID-19 Long Hauler and Other Post-Infection Syndromes as Problems in Systems Biology and Regulatory Plasticity.” - 
+2.	_“COVID-19 Long Hauler and Other Post-Infection Syndromes as Problems in Systems Biology and Regulatory Plasticity.”_ - 
 **Guest Lecture** - MIT Lincoln Laboratory - May 10, 2021 -
 John Wikswo and **Nicole Muszynski**
 
-3.	“COVID-19 Long Hauler and Other Post-Infection Syndromes as Problems in Systems Biology and Regulatory Plasticity.” - 
+3.	_“COVID-19 Long Hauler and Other Post-Infection Syndromes as Problems in Systems Biology and Regulatory Plasticity.”_ - 
 **Guest Lecture** - Bioscience Division - Los Alamos National Laboratory - May 4, 2021 -
 John Wikswo and **Nicole Muszynski**
 
-4.	“COVID-19 Long Hauler and Other Post-Infection Syndromes as Problems in Systems Biology and Regulatory Plasticity.” - 
+4.	_“COVID-19 Long Hauler and Other Post-Infection Syndromes as Problems in Systems Biology and Regulatory Plasticity.”_ - 
 DTRA DOMANE Long Hauler Syndrome / Long COVID Workshop - April 13, 2021 -
 John Wikswo and **Nicole Muszynski**
 
-5.	“Noninvasive measurement of small bowel slow wave activity in neonates – a pilot study.” -
+5.	_“Noninvasive measurement of small bowel slow wave activity in neonates – a pilot study.”_ -
 Somarajan, **Muszynski**, Caillet, Russell, Bradshaw, Acra, Weitkamp - 
 **Poster Presentation** - American Gastroenterological Association - 2020
 
-6.	“Bridging the Gap Between Organs-on-Chips and Multi-Omic Analysis for In Vitro Investigation of Incapacitating Agents and Medical Countermeasures.” - 
+6.	_“Bridging the Gap Between Organs-on-Chips and Multi-Omic Analysis for In Vitro Investigation of Incapacitating Agents and Medical Countermeasures.”_ - 
 Wikswo (presenting), Norris, Farrow, Gutierrez, **Muszynski**, Sherrod, Lacy, McLean, Skaar, Caprioli - Chemical and Biological Defense Science & Technology (CBD S&T) Conference Speaker - Cincinnati, OH - November 18-21, 2019
 
-7.	“Distinguishing spatiotemporal functional abnormalities in pediatric chronic nausea using high density electrogastrography.” -
+7.	_“Distinguishing spatiotemporal functional abnormalities in pediatric chronic nausea using high density electrogastrography.”_ -
 **Muszynski** et al. – **Conference Speaker** -
 Biomedical Engineering Society Annual Conference - Philadelphia, PA - October 2019
 
-8.	“Bridging the gap between multi-omic network analysis and Organ-in-a-Puck to elucidate the comprehensive mechanisms of host-pathogen interactions.” -
+8.	_“Bridging the gap between multi-omic network analysis and Organ-in-a-Puck to elucidate the comprehensive mechanisms of host-pathogen interactions.”_ -
 **Muszynski** et al. – **Poster Presentation** -
 Biomedical Engineering Society Annual Conference - Philadelphia, PA - October 2019
 
-9.	“Multichannel electrogastrography distinguishes gastric slow wave spatiotemporal parameter differences in pediatric chronic nausea.” -
+9.	_“Multichannel electrogastrography distinguishes gastric slow wave spatiotemporal parameter differences in pediatric chronic nausea.”_ -
 **Muszynski**, Somarajan, Russell, Acra, Bradshaw – **Poster Presentation** -
 American Neurogastroenterology and Motility Annual Conference - Chicago, IL - August 2019
 
-10.	“The convergence of multi-omic network analysis and Gut-on-a-Chip to elucidate the comprehensive mechanisms of incapacitating agents.” -
+10.	_“The convergence of multi-omic network analysis and Gut-on-a-Chip to elucidate the comprehensive mechanisms of incapacitating agents.”_ -
 **Muszynski**, Farrow, et al. – **Invited Speaker** -
 Epimilitaris: International Bioterrorism Conference - Ryn, Poland - April 2019
 
-11.	“The convergence of multi-omic network analysis and Gut-on-a-Chip to elucidate the comprehensive mechanisms of incapacitating agents.” -
+11.	_“The convergence of multi-omic network analysis and Gut-on-a-Chip to elucidate the comprehensive mechanisms of incapacitating agents.”_ -
 **Muszynski**, Farrow, et al. – **Invited Speaker** -
 Military Institute of Technology - Warsaw, Poland - April 2019
 
-12.	“Openable Organ-in-a-Puck and Multi-Omics for In Vitro Investigation of Host-Pathogen Interactions in the Gut and Brain.” -
+12.	_“Openable Organ-in-a-Puck and Multi-Omics for In Vitro Investigation of Host-Pathogen Interactions in the Gut and Brain.”_ -
 Wikswo, **Muszynski**, Farrow, Gutierrez, Sherrod – **Invited Speakers** -
 DTRA Tech Watch Seminar - Fort Belvoir, Springfield, VA, USA - July 2018
 
-13.	“Rapid Threat Assessment: to detect, identify, and characterize the effects of chemical and biological warfare agents.” -
+13.	_“Rapid Threat Assessment: to detect, identify, and characterize the effects of chemical and biological warfare agents.”_ -
 **Muszynski**, Farrow – **Poster Presentation** -
 American Society for Microbiology Biothreats Conference - Washington DC, USA - February 2017
 
-14.	“Rapid Threat Assessment: Bridging the gap between multi-omic network analysis and biological mechanism of action of drugs and toxins.” -
+14.	_“Rapid Threat Assessment: Bridging the gap between multi-omic network analysis and biological mechanism of action of drugs and toxins.”_ -
 **Muszynski** et al. – **Invited Speaker** -
-Gordon Research Conference: Drug Safety - Easton, MA - June 2016
+**Gordon Research Conference: Drug Safety** - Easton, MA - June 2016
 
-15.	“Rapid Threat Assessment: Bridging the gap between multi-omic network analysis and biological mechanism of action of drugs and toxins.” -
+15.	_“Rapid Threat Assessment: Bridging the gap between multi-omic network analysis and biological mechanism of action of drugs and toxins.”_ -
 **Muszynski** et al. – **Poster Presentation** -
 Gordon Research Seminar: Drug Safety - Easton, MA - June 2016
 
-16.	“Data-driven construction of global drug mechanisms enabled by an integrated high-throughput multi-omics platform.” -
+16.	_“Data-driven construction of global drug mechanisms enabled by an integrated high-throughput multi-omics platform.”_ -
 Norris (presenting), Farrow, Gutierrez, **Muszynski**, et al. – **Invited Speaker** -
 64th American Society of Mass Spectrometry - San Antonio, Texas - June 2016
 
-17.	“High-density electrogastrogram identifies spatial dysrhythmias in adolescent patients with chronic idiopathic nausea: a preliminary study.” -
+17.	_“High-density electrogastrogram identifies spatial dysrhythmias in adolescent patients with chronic idiopathic nausea: a preliminary study.”_ -
 **Muszynski** - **Invited Speaker** -
 International Gastrointestinal Electrophysiology Society - San Diego, CA - May 2016
 
-18.	“High-density electrogastrogram identifies spatial dysrhythmias in adolescent patients with chronic idiopathic nausea: a preliminary study.” -
+18.	_“High-density electrogastrogram identifies spatial dysrhythmias in adolescent patients with chronic idiopathic nausea: a preliminary study.”_ -
 Somarajan, **Muszynski**, et al. – **Poster Presentation**, **Award** -
 Digestive Disease Week - San Diego, CA - May 2016
 
-19.	“Spatiotemporal and Morphological Differences in Serosal and Mucosal Electrical Recording of Porcine Colonic Slow Wave.” -
+19.	_“Spatiotemporal and Morphological Differences in Serosal and Mucosal Electrical Recording of Porcine Colonic Slow Wave.”_ -
 **Muszynski** et al. - Digestive Disease Week - San Diego, CA, May 2016 - **Poster Presentation**
 
-20.	“Rapid Threat Assessment: Bridging the gap between multi-omic network analysis and biological mechanism of action of drugs and toxins.” -
+20.	_“Rapid Threat Assessment: Bridging the gap between multi-omic network analysis and biological mechanism of action of drugs and toxins.”_ -
 NATO ASI: Molecular Technologies for Detection of Chemical and Biological Agents -
 Campora san Giovanni, Calabria, Italy - April 2016 - **Poster, Invited Talk**
 
-21.	“A Lesson on Biomagnetism.” -
+21.	_“A Lesson on Biomagnetism.”_ -
 New York Institute of Technology - Department of Electrical and Computer Engineering - Long Island, New York - September 2015 - **Invited Talk**
 
 22.	Professional Skill Development Workshop for Cancer Biologists - Cold Spring Harbor National Laboratory - Long Island, New York - September 2015 - **Meeting**
 
-23.	“Experimental recording and analysis of mucosal and serosal slow wave activity in porcine colon.” - International Gastrointestinal Electrophysiology Society - Washington DC - May 2015 - **Invited Talk, Award**
+23.	_“Experimental recording and analysis of mucosal and serosal slow wave activity in porcine colon.”_ - International Gastrointestinal Electrophysiology Society - Washington DC - May 2015 - **Invited Talk, Award**
 
-24.	“Noninvasive biomagnetic assessment of the effects of erythromycin on the gastric slow wave.” -
+24.	_“Noninvasive biomagnetic assessment of the effects of erythromycin on the gastric slow wave.”_ -
 **Muszynski** et a. - Digestive Disease Week - American Gastroenterological Association - Washington DC - May 2015 - **Poster**
 
-25.	“MENG reveals slow wave dysrhythmia in diabetic gastroparesis.” -
+25.	_“MENG reveals slow wave dysrhythmia in diabetic gastroparesis.”_ -
 **Muszynski** et al. - Digestive Disease Week, American Gastroenterological Association, Washington DC, May 2015 - **Poster**
 
-26.	“Rapid threat assessment year one.” - **Vanderbilt Team Presentation** - 
+26.	_“Rapid threat assessment year one.”_ - **Vanderbilt Team Presentation** - 
 Defense Advanced Research Projects Agency - Department of Defense - Washington DC - February 2015
 
-27.	“Cholecystokinin alters serosal EMG but not MGG in porcine subjects.” - **Muszynski** et al. - 
+27.	_“Cholecystokinin alters serosal EMG but not MGG in porcine subjects.”_ - **Muszynski** et al. - 
 International Gastrointestinal Electrophysiology Society - Chicago, IL - May 2014 - **Invited Talk**
 
-28.	“Noninvasive measurement of gastric slow wave dysrhythmia in porcine.” - **Muszynski** et al. -
+28.	_“Noninvasive measurement of gastric slow wave dysrhythmia in porcine.”_ - **Muszynski** et al. -
 Digestive Disease Week - American Gastroenterological Association - Chicago, IL - May 2014 - **Poster**
 
-29.	“Cholecystokinin alters serosal EMG but not MGG in porcine subjects.” - **Muszynski** et al. -
+29.	_“Cholecystokinin alters serosal EMG but not MGG in porcine subjects.”_ - **Muszynski** et al. -
 Digestive Disease Week - American Gastroenterological Association - Chicago, IL - May 2014 - **Poster**
 
 30.	Professional Skill Development Workshop for Women Physicists - APS - 2013 - **Meeting**
 
-31.	“Noninvasive biomagnetic detection of isolated ischemic bowel segments.” -
+31.	_“Noninvasive biomagnetic detection of isolated ischemic bowel segments.”_ -
 Surgery and Engineering Symposium, Vanderbilt University, Nashville, TN, December 2012 - **Poster**
 
-32.	“Correlation of noninvasive magnetic and electric measurement of the gastric slow wave.” -
+32.	_“Correlation of noninvasive magnetic and electric measurement of the gastric slow wave.”_ -
 Student Scholar Symposium - Lipscomb University - Nashville, TN - 2012 - **Invited Talk**
 
 ## **SKILLS & INTERESTS**

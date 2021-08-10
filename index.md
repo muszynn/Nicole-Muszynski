@@ -26,11 +26,11 @@ The other half of my time has been spent working with [John Wikswo’s](https://
 
 ### [A Custom Bioplotter for Fabricating Intestinal Crypt Organoid Models](https://daltonjay.github.io/Bioplotting-Crypts/)
 <p align="center">
-  <img src="https://muszynn.github.io/Nicole-Muszynski/Crypt-Plotter.png" width="250">
+  <iframe src="https://vanderbilt389.autodesk360.com/shares/public/SH919a0QTf3c32634dcf75c5ffeb4a9aec1c?mode=embed" width="440" height="280" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 </p>
 
 
-### **Curriculum Vitae**
+# **_Curriculum Vitae_**
 
 [<span style="color:navy">[Download CV]</span>](https://muszynn.github.io/Nicole-Muszynski/CV_website.pdf)
                               

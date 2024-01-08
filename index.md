@@ -17,7 +17,7 @@ Welcome and hello! My name is Nicole. I am a biomedical engineer at Vanderbilt U
 </p>
 
 
-
+<p align="center">
   [***Projects with Interactive CADs***](/Nicole-Muszynski/Interactive-CADs)
 
   [***Gastrointestinal SQUID Lab***](/Nicole-Muszynski/SQUID-Lab)
@@ -27,12 +27,13 @@ Welcome and hello! My name is Nicole. I am a biomedical engineer at Vanderbilt U
   [***Curriculum Vitae***](/Nicole-Muszynski/CV)
 
   [***Skills and Interests***](/Nicole-Muszynski/SI)
+</p>
 
-
-
+<p align="justify">
 My skill set is unique in that I have the ability to develop clinical research studies working with patients and basic science experiments at the bench, both from conception to validation, giving me a breadth of experience in engineering, medicine, and systems biology. While my research skills might seem unfocused, my personal goals are very much structured with an overarching theme to incorporate both clinical and basic science while learning how to apply my engineering and computational skills to solve biological problems. I was also advised to use my graduate experience to embrace the Army’s strategic leadership challenges, with the overall goal of learning to think holistically about the programmatic scale and project aspect of the research and reflect that in the act of writing. Strategic leaders guide advancements not only by learning how to do the science, but by directing policy and strategy, acquiring and allocating resources, managing budgets and contracts, shaping external environments and seeking opportunities to advance organizational goals, and growing the next generation of leaders. I have been striving to encompass all of these.
 
 I have wanted to study the gut-brain barrier since my first conference in 2013. I believe we won’t fully grasp the beauty and intricacies of gastrointestinal physiology until whole-organ study models start merging with cellular pathophysiology, analyzing function versus phenotype and creating new platforms amenable to multicellular environments that generate desired readouts depending on how cells are paired. The clinical studies in my thesis examine gastrointestinal motility disorders from the whole-organ perspective by studying humans and utilizing porcine subjects for computational models and validation experiments. Simultaneously, I developed the microfluidic experiments to understand how to study the effects of exogenous compounds, drugs, toxins, or pathogens, on single and multicellular environments. While the spiral mixer protocols were developed to understand millisecond signal transduction dynamics on single cells, I believe the next phase would be to incorporate enteroids for a comprehensive mechanistic understanding of the intestinal epithelial surface upon exposure. Those experiments could then be correlated with longitudinal analysis from the multicellular 3D study models utilizing organ-on-a-chip or Transwells as the interface, depending on which cell types are of interest. 
+</p>
 
 I have worked for [Alan Bradshaw](https://scholar.google.com/citations?user=tbee4G4AAAAJ&hl=en&oi=sra) in the [Gastrointestinal SQUID Lab](https://www.vumc.org/biomag/welcome) in the Department of General Surgery at Vanderbilt University Medical Center since 2011. The SQUID Lab's focus is to develop noninvasive methods of diagnosing gastrointestinal diseases that would otherwise be hard to detect. Our overall goal is to add characterizing criteria to GI disorders by investigating gastric motility using electrical and magnetic field analyses. Each part of your gastric system functions at different frequencies - stomach 3 cycles per minute (cpm), intestine 10-12 cpm, colon 1-3 cpm. Our cutaneous 5x5 high density electrogastrogram (HR-EGG) array measures your electrical fields. Think heart EKG but for your stomach. The magnetogastrogram (MGG) measures the very weak GI magnetic fields using a highly-sensitive superconducting quantum interference device (SQUID) magnetometer. 
 

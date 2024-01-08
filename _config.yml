@@ -1,6 +1,9 @@
 title: Nicole D. Muszynski
 logo: /Nicole-Muszynski/nm.jpg
 description: Biomedical Engineer *Vanderbilt University* 
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-dinky
 
 [***Projects with Interactive CADs***](/Nicole-Muszynski/Interactive-CADs)
 
@@ -15,10 +18,4 @@ description: Biomedical Engineer *Vanderbilt University*
 
   
 [***Skills and Interests***](/Nicole-Muszynski/SI)
-
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-dinky
-
-
 

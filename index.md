@@ -17,7 +17,7 @@ Welcome and hello! My name is Nicole. I am a biomedical engineer at Vanderbilt U
 </p>
 
 
-  [<p align="center"> ***Projects with Interactive CADs***](/Nicole-Muszynski/Interactive-CADs)
+  [<p align="center"_***Projects with Interactive CADs*** >](/Nicole-Muszynski/Interactive-CADs)
   
   [<p align="center"> ***Gastrointestinal SQUID Lab***](/Nicole-Muszynski/SQUID-Lab)
   

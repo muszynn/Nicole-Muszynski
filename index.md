@@ -7,24 +7,25 @@
 
 
 ---
-Welcome and hello! My name is Nicole. I am a biomedical engineer at Vanderbilt University. I am also a first gen college student. My interdisciplinary research career has had a large focus on the gastrointestinal system, with efforts currently split between two labs that have each brought me tremendous knowledge and incredible opportunities across completely diverse fields. I am an expert in measuring biomagnetic and bioelectric fields of the GI system utiizing Superconducting Quantum Interference Devices (SQUIDs) and cutaneous electrodes. I fathered the concept of the High-Resolution Electrogastrogram (HR-EGG). I also have experience in microfluidics, organ-on-a-chip, and organoid development from human tissue. 
 
 <p align="center">
   <img src="https://muszynn.github.io/Nicole-Muszynski/nm.jpg" width="200">
 </p>
 
+<p align="justify">
+Welcome and hello! My name is Nicole. I am a biomedical engineer at Vanderbilt University. I am also a first gen college student. My interdisciplinary research career has had a large focus on the gastrointestinal system, with efforts currently split between two labs that have each brought me tremendous knowledge and incredible opportunities across completely diverse fields. I am an expert in measuring biomagnetic and bioelectric fields of the GI system utiizing Superconducting Quantum Interference Devices (SQUIDs) and cutaneous electrodes. I fathered the concept of the High-Resolution Electrogastrogram (HR-EGG). I also have experience in microfluidics, organ-on-a-chip, and organoid development from human tissue.
+</p>
+
+
+
   [***Projects with Interactive CADs***](/Nicole-Muszynski/Interactive-CADs)
 
-  
   [***Gastrointestinal SQUID Lab***](/Nicole-Muszynski/SQUID-Lab)
 
-  
   [***Vanderbilt Institute for Intergrative Biosystems and Education Research***](/Nicole-Muszynski/Wikswo-VIIBRE)
 
-  
   [***Curriculum Vitae***](/Nicole-Muszynski/CV)
 
-  
   [***Skills and Interests***](/Nicole-Muszynski/SI)
 
 

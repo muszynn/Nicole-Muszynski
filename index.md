@@ -17,21 +17,12 @@ Welcome and hello! My name is Nicole. I am a biomedical engineer at Vanderbilt U
 </p>
 
 
-<p align="center">
-  [***Projects with Interactive CADs***](/Nicole-Muszynski/Interactive-CADs)
-</p>
-<p align="center">
-  [***Gastrointestinal SQUID Lab***](/Nicole-Muszynski/SQUID-Lab)
-</p> 
-<p align="center">
-  [***Vanderbilt Institute for Intergrative Biosystems and Education Research***](/Nicole-Muszynski/Wikswo-VIIBRE)
-</p>  
-<p align="center">
-  [***Curriculum Vitae***](/Nicole-Muszynski/CV)
-</p>  
-<p align="center">
-  [***Skills and Interests***](/Nicole-Muszynski/SI)
-</p>
+  [<align="center"> ***Projects with Interactive CADs***](/Nicole-Muszynski/Interactive-CADs)
+  [<align="center"> ***Gastrointestinal SQUID Lab***](/Nicole-Muszynski/SQUID-Lab)
+  [<align="center"> ***Vanderbilt Institute for Intergrative Biosystems and Education Research***](/Nicole-Muszynski/Wikswo-VIIBRE)
+  [<align="center"> ***Curriculum Vitae***](/Nicole-Muszynski/CV)
+  [<align="center"> ***Skills and Interests***](/Nicole-Muszynski/SI)
+
 
 <p align="justify">
 My skill set is unique in that I have the ability to develop clinical research studies working with patients and basic science experiments at the bench, both from conception to validation, giving me a breadth of experience in engineering, medicine, and systems biology. While my research skills might seem unfocused, my personal goals are very much structured with an overarching theme to incorporate both clinical and basic science while learning how to apply my engineering and computational skills to solve biological problems. I was also advised to use my graduate experience to embrace the Army’s strategic leadership challenges, with the overall goal of learning to think holistically about the programmatic scale and project aspect of the research and reflect that in the act of writing. Strategic leaders guide advancements not only by learning how to do the science, but by directing policy and strategy, acquiring and allocating resources, managing budgets and contracts, shaping external environments and seeking opportunities to advance organizational goals, and growing the next generation of leaders. I have been striving to encompass all of these.

@@ -13,19 +13,19 @@ Welcome and hello! My name is Nicole. I am a biomedical engineer at Vanderbilt U
   <img src="https://muszynn.github.io/Nicole-Muszynski/nm.jpg" width="200">
 </p>
 
-  <[#Projects with Interactive CADs](/Nicole-Muszynski/Interactive-CADs)>
+  [***Projects with Interactive CADs***](/Nicole-Muszynski/Interactive-CADs)
 
   
-  <[#Gastrointestinal SQUID Lab](/Nicole-Muszynski/SQUID-Lab)>
+  [***Gastrointestinal SQUID Lab***](/Nicole-Muszynski/SQUID-Lab)
 
   
-  <[#Vanderbilt Institute for Intergrative Biosystems and Education Research](/Nicole-Muszynski/Wikswo-VIIBRE)>
+  [***Vanderbilt Institute for Intergrative Biosystems and Education Research***](/Nicole-Muszynski/Wikswo-VIIBRE)
 
   
-  <[#Curriculum Vitae](/Nicole-Muszynski/CV)>
+  [***Curriculum Vitae***](/Nicole-Muszynski/CV)
 
   
-  <[#Skills and Interests](/Nicole-Muszynski/SI)>
+  [***Skills and Interests***](/Nicole-Muszynski/SI)
 
 
 

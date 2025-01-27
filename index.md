@@ -17,7 +17,7 @@
 
 </p>
 
-### A couple of cool things I've designed in grad school:
+### A couple of cool things I designed in grad school:
 ### [Designing and Programming a Syringe Pump + NEMA 17 Stepper Motor](https://muszynn.github.io/Syringe-Pump-Demo/)  
 <p align="center">
 <iframe src="https://vanderbilt428.autodesk360.com/shares/public/SH56a43QTfd62c1cd968fc7ec97f3bc74a30?mode=embed" width="440" height="280" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe> 

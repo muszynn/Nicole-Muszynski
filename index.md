@@ -1,3 +1,4 @@
+</p>
 
   [<img align="right" img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/researchgate.svg" />](https://www.researchgate.net/profile/Nicole-Muszynski-2) 
   [<img align="right" img height="38" width="38" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/nicole-muszynski-45082965/) 

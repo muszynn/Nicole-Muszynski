@@ -31,7 +31,7 @@
 
 # **_Curriculum Vitae_**
 
-[<span style="color:navy">[Download CV]</span>](https://muszynn.github.io/Nicole-Muszynski/CV_website.pdf)
+[<span style="color:navy">[Download CV]</span>](https://muszynn.github.io/Nicole-Muszynski/CV_012825.docx)
                               
 _Multidisciplinary engineer skilled in project management - 14 years. Experience working with Defense Advanced Research Projects Agency. Pediatric and adult clinical research experience quantifying gastrointestinal motility disorders via magneto- and electrophysiology. Basic science work in microfluidics and pathway analysis. Strong background in writing and verbalizing science effectively.  Demonstrated technical skills and project leadership across projects in biology, medicine, and engineering._ 
 

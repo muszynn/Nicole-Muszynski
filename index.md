@@ -48,13 +48,20 @@ _Multidisciplinary engineer skilled in project management - 14 years. Experience
 
 ### **Key Skills** 
 **CAD Software**   Fusion 360 - AutoCAD - Solidworks
+
 **Programming**   MATLAB - NI LabView - Canvas - Python - CorelDraw
+
 **Technical Expertise**   Signal processing - Superconduction - Microfluidics - Fluid dynamics - Cryogenics - Thermoforming - Computational modeling 
+
 **Research & Development**   Noninvasive diagnostics - Mathematical modeling - Advanced biomedical equipment calibration - Clinical trial coordination
+
 **Project Management**   Strategic planning - Timeline optimization - Resource negotiation - Team leadership
-**Data Analysis & Visualization:**   Statistical analysis - Data visualization tools - Automated machine learning pipelines - Multi-omics/ big data analysis
-**Regulatory Knowledge:**   Proficient in IRB/IACUC protocols, AAALAC, and USDA regulations
-**Communication & Teaching:**   Technical writing - Scientific presentation - Public speaking - Curriculum development - Mentoring
+
+**Data Analysis & Visualization**   Statistical analysis - Data visualization tools - Automated machine learning pipelines - Multi-omics/ big data analysis
+
+**Regulatory Knowledge**   Proficient in IRB/IACUC protocols, AAALAC, and USDA regulations
+
+**Communication & Teaching**   Technical writing - Scientific presentation - Public speaking - Curriculum development - Mentoring
 
 
 ## **RESEARCH EXPERIENCE**

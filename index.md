@@ -35,7 +35,7 @@
                               
 _Multidisciplinary engineer skilled in project management - 14 years. Experience working with Defense Advanced Research Projects Agency. Pediatric and adult clinical research experience quantifying gastrointestinal motility disorders via magneto- and electrophysiology. Basic science work in microfluidics and pathway analysis. Strong background in writing and verbalizing science effectively.  Demonstrated technical skills and project leadership across projects in biology, medicine, and engineering._ 
 
-
+## **EDUCATION**
 ### **PhD** -	 Vanderbilt University | Biomedical Engineering | GPA 3.7 	  
    August 2019 – May 2025
     _Progress towards bridging the gap between noninvasive electrophysiological and electromagnetic measurements and microphysiological systems to detect, characterize, and treat gastrointestinal disorders_
@@ -47,12 +47,14 @@ _Multidisciplinary engineer skilled in project management - 14 years. Experience
    _Minors: Psychology and Chemistry_
 
 ### **Key Skills** 
-•	**Technical Expertise:** MATLAB, LabView, Python, R, signal processing, microfluidic platform development, multi-omics data analysis, computational modeling
-•	**Research & Development:** Noninvasive diagnostics, mathematical modeling, advanced biomedical equipment calibration, clinical trial coordination
-•	**Project Management:** Strategic planning, timeline optimization, resource negotiation, team leadership
-•	**Data Analysis & Visualization:** Statistical analysis, data visualization tools, automated machine learning pipelines
-•	**Regulatory Knowledge:** Proficient in IRB/IACUC protocols, AAALAC, and USDA regulations
-•	**Communication & Teaching:** Technical writing, scientific presentation, public speaking, curriculum development
+**CAD Software**   Fusion 360 - AutoCAD - Solidworks
+**Programming**   MATLAB - NI LabView - Canvas - Python - CorelDraw
+**Technical Expertise**   Signal processing - Superconduction - Microfluidics - Fluid dynamics - Cryogenics - Thermoforming - Computational modeling 
+**Research & Development**   Noninvasive diagnostics - Mathematical modeling - Advanced biomedical equipment calibration - Clinical trial coordination
+**Project Management**   Strategic planning - Timeline optimization - Resource negotiation - Team leadership
+**Data Analysis & Visualization:**   Statistical analysis - Data visualization tools - Automated machine learning pipelines - Multi-omics/ big data analysis
+**Regulatory Knowledge:**   Proficient in IRB/IACUC protocols, AAALAC, and USDA regulations
+**Communication & Teaching:**   Technical writing - Scientific presentation - Public speaking - Curriculum development - Mentoring
 
 
 ## **RESEARCH EXPERIENCE**
@@ -75,7 +77,7 @@ _Multidisciplinary engineer skilled in project management - 14 years. Experience
 
 ### **Project 2: DARPA Rapid Threat Assessment for Chemical and Biological Warfare Defense**    June 2014 – April 2021
 
-*Engineering Team Lead, Biomedical Engineer, Research Scientist* \| Advisors: John P. Wikswo, Richard Caprioli, Vanderbilt University
+*Engineering Team Lead, Biomedical Engineer, Project Manager* \| Advisors: John P. Wikswo, Richard Caprioli, Vanderbilt University
 
 - Developed a system for rapidly heating and/or cooling cells+toxin to achieve metabolic cessation
 - Fabricated a microfluidic system for rapidly mixing and exposing cells to toxin in the seconds to milliseconds range
@@ -85,30 +87,21 @@ _Multidisciplinary engineer skilled in project management - 14 years. Experience
 
 ### **Project 3: Organ-on-a-Chip**	    Dec 2018 – April 2021
 
-*Biomedical Engineer, Research Scientist* \| Advisor: John P. Wikswo, Vanderbilt University
+Advisor: John P. Wikswo, Vanderbilt University
 
 - Developed openable gut-on-a-chip for multi-omic analyses of host-pathogen interactions
 - Utilized human-derived intestinal stem cells from tissue explants to seed organ-on-a-chip platform
 - Developed standard operating procedures for microfluidic platform
-
-## **SKILLS & INTERESTS**
-- **Skills** 	Cryogenics - Public speaking - Biomagnetometry - Project management - Signal Processing - Microscopy - Microfluidics - Thermoforming - Superconduction - Fourier Transforms - Logistics 
-- **CAD Software**	Fusion 360 - AutoCAD - Solidworks
-- **Programming** 	MATLAB - NI LabView - Canvas - Python - CorelDraw
-## **EDUCATION**
-
+  
 
 ## **HONORS AND AWARDS**
 1. **Young Investigator Award, International Gastrointestinal Electrophysiology Society** -	**2024**
     _“Quantifying Pediatric Functional Nausea”_     
-
 2. **Vanderbilt Sesquicentennial Scholarship Exhibition, Top 10** - **2024**
     _“Simple Flow: A method for cell exposure to drugs or toxins with precise metabolic 
 cessation on the millisecond timescale.”_     
-
 3. Best Abstract, Digestive Disease Week, America Gastroenterological Association	2023
     _“Noninvasive Bioelectric Signatures to Quantify Nausea Severity in Pediatric Functional Nausea”_     
-
 4. **Young Investigator Award, American Gastroenterological Association** - **2016**
       _“High-density electrogastrogram identifies spatial dysrhythmias in adolescent patients with chronic idiopathic nausea: a preliminary study”_
 5. **Benjamin Franklin Fellowship (declined)** - **2016**
